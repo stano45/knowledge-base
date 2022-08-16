@@ -1,0 +1,3 @@
+**Robotics** is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans.
+
+In [[Computer Science]], the goal of robotics is to build algorithms and systems for robots. This includes route planning software, [[Artificial Intelligence]] recognition systems, or [[SLAM]].

@@ -1,0 +1,1 @@
+**Computer hardware** includes the physical parts of a computer, such as the case,central processing unit ([[CPU]]), random access memory ([[RAM]]), monitor, mouse, keyboard, computer data storage, [[GPU|graphics card]], sound card, speakers and motherboard.

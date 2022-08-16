@@ -1,0 +1,1 @@
+The **Frontend** is usually the side of the software that the user interacts with. The Frontend exposes the program functionality usually as a [[UI]] on a website, or in a mobile application. This user interface then interacts with the backend, where it fetches information, which is subsequently presented to the user again, possibly again as an interactive [[UI]].

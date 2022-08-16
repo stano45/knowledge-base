@@ -1,0 +1,1 @@
+ **Kafka** is a big data streaming engine, which is well known for handling huge amounts of data in asynchronous communication. Currently it is de-facto standard in the industry, with integrations widely available in every system or programming langaugage.

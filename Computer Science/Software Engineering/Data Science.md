@@ -1,0 +1,1 @@
+In [[Computer Science]], **Data Science** is the discipline of collecting, modelling, pipelining and presenting data. This includes collecting and aggregating large [[Data Stream|data streams]] using [[Kafka]], building [[Artificial Intelligence]] models to make sense of it and make predictions, and then presenting the gained knowledge.

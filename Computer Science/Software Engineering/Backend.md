@@ -1,0 +1,3 @@
+In [[Computer Science]], backend usually refers to the logic of the program, which retrieves and processes data requested by the [[Frontend]]. In contrast to the [[Frontend]], the Backend is not concerned with data presentation or [[Rendering]] of websites.
+
+The processing/retrieval process usually starts with a request, often in [[REST|RESTful]] format, or a [[GraphQL]] query. Then, the data is fetched from a [[Database]], processed if needed, and a response is sent to the user ([[Frontend]]).

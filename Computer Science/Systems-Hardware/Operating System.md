@@ -1,0 +1,1 @@
+An **Operating System** is system software that manages computer hardware, software resources, and provides common services for computer programs.

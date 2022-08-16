@@ -1,0 +1,3 @@
+**A graphics processing unit (GPU)** is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. 
+
+The main and fastest operation of a GPU is a linear transformation, which is why this component ist often used not only for graphical operations, but also for cryptocurrency mining, in [[Robotics|robotics]] applications such as [[SLAM]] and much more.

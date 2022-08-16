@@ -1,0 +1,1 @@
+The simplest definition of a **process** is a running [[Program|program]]. Processes are represented and run differently on every [[Operating System|operating system]].
