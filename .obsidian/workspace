@@ -7,7 +7,7 @@
         "id": "cdc11e5551dfb77d",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5df3e69a0bf6149b",
+  "active": "cdc11e5551dfb77d",
   "lastOpenFiles": [
-    "Computer Science/Untitled.md",
-    "Computer Science/Theoretical Computer Science/Algorithm Theory/Greedy Algorithms.md",
     "Computer Science/Theoretical Computer Science/Algorithm Theory/Algorithm Theory.md",
-    "Computer Science/Basic Definitions/Artificial Intelligence.md",
-    "Computer Science/Theoretical Computer Science/Computability.md",
-    "Computer Science/Basic Definitions/Computer Science.md",
-    "Computer Science/Software Engineering/Virtual Machines.md",
-    "Computer Science/Software Engineering/Docker.md",
-    "Computer Science/Systems-Hardware/Hardware.md",
-    "Computer Science/Systems-Hardware/Rendering.md"
+    "Computer Science/Theoretical Computer Science/Algorithm Theory/Divide and Conquer.md",
+    "Fixed Parameter Retractability.md",
+    "Computer Science/Theoretical Computer Science/Algorithm Theory/Dynamic Programming.md",
+    "Computer Science/Theoretical Computer Science/NP.md",
+    "Computer Science/Theoretical Computer Science/P.md",
+    "Computer Science/Theoretical Computer Science/Algorithm Theory/Greedy Algorithms.md",
+    "Compexity.md",
+    "Computer Science/Theoretical Computer Science/Complexity.md",
+    "Computer Science/Theoretical Computer Science/Algorithm Theory/Linear Programming.md"
   ]
 }

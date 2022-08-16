@@ -1,0 +1,1 @@
+**Linear programming** maximizes a linear equation with multiple linear constraints. It can be used to model a lot of real world situations where the constraints are linear (for example the profit in a factory, where the constraints are the number of new employees each month, their production output, salary, etc..).

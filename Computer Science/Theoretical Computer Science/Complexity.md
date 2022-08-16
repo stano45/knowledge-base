@@ -1,0 +1,3 @@
+**Complexity** studies the difficulty to solve an algorithmic problem (on a reference machine, such as the Turing Machine, or the Random Access Machine).
+
+The complexity of a problem is usually described in Big-O Notation (e.g. O(n)), which describes the worst case growth in the number of steps taken by the algorithm, with respect to the size of the input. A step is defined by the reference machine (move to the right or left by Turing machine for example). That means the number of elementary steps taken by an algorithm with O(n) complexity grows at most linearly as the input size grows.
